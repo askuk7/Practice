@@ -41,12 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Binary2Int.cs" />
     <Compile Include="delegate.cs" />
     <Compile Include="ExtensionMethod.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="NumberRev.cs" />
     <Compile Include="ObjectReferenceEqual.cs" />
     <Compile Include="IPractise.cs" />
+    <Compile Include="ParamTest.cs" />
     <Compile Include="PlayerAllocation.cs" />
     <Compile Include="PrenPostInc.cs" />
     <Compile Include="Prime.cs" />

@@ -24,7 +24,7 @@ namespace Practise
             //test.Add(4);
             //test.toCsv();
 
-            IPractise _objpractise = new NumberRev();
+            IPractise _objpractise = new ParamTest();
             _objpractise.Test();
 
             //C obj = new C();

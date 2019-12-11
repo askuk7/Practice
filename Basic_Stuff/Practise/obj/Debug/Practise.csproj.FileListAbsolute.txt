@@ -1,0 +1,10 @@
+D:\GitHub\Practice\Basic_Stuff\Practise\bin\Debug\HackerEarth_Practise.exe.config
+D:\GitHub\Practice\Basic_Stuff\Practise\bin\Debug\HackerEarth_Practise.exe
+D:\GitHub\Practice\Basic_Stuff\Practise\bin\Debug\HackerEarth_Practise.pdb
+D:\GitHub\Practice\Basic_Stuff\Practise\bin\Debug\Utility.dll
+D:\GitHub\Practice\Basic_Stuff\Practise\bin\Debug\Utility.pdb
+D:\GitHub\Practice\Basic_Stuff\Practise\obj\Debug\Practise.csprojAssemblyReference.cache
+D:\GitHub\Practice\Basic_Stuff\Practise\obj\Debug\Practise.csproj.CoreCompileInputs.cache
+D:\GitHub\Practice\Basic_Stuff\Practise\obj\Debug\Practise.csproj.CopyComplete
+D:\GitHub\Practice\Basic_Stuff\Practise\obj\Debug\HackerEarth_Practise.exe
+D:\GitHub\Practice\Basic_Stuff\Practise\obj\Debug\HackerEarth_Practise.pdb
